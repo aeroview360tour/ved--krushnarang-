@@ -1,0 +1,70 @@
+#: locale=en
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_30E857D2_2A1E_C59E_41C4_187BE0ACBADA.text = AMENITIES
+HotspotPanoramaOverlayTextImage_3F441866_29D1_04B7_41BA_FE8311228DAB.text = DIGHI  ALANDI ROAD
+HotspotPanoramaOverlayTextImage_37F9ED2D_2A11_4A8A_41AA_B78A962393DB.text = MAIN ENTRANCE CONECTED TO HIGHWAY
+HotspotPanoramaOverlayTextImage_30D36CDD_29F1_FD95_41C4_1876E3D932C6.text = Proposed \
+WING  \
+A
+HotspotPanoramaOverlayTextImage_0925B661_295F_0CAD_41A7_AAAE28B19340.text = SAMPLE FLAT
+HotspotPanoramaOverlayTextImage_31CE2DDC_2930_FF9A_41C0_424A5BC734B1.text = Under Construction \
+WING  \
+    B
+HotspotPanoramaOverlayTextImage_30D2C5F7_29F3_0F96_41A0_DB447CE7156E.text = Under Construction \
+WING  \
+    C
+
+## Media
+
+### Image
+imlevel_33C7CA6E_2A11_4E86_41B2_A978EE257717.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_7zhgbu9h_en.webp
+imlevel_3182C676_29CF_0C96_41B9_37C4C2DF2A2C.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_kbt8tyl3_en.webp
+imlevel_312F83D7_2951_0B95_41B5_EC99CB6BE14F.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_t7acqnj5_en.webp
+imlevel_312D232A_2951_04BE_4194_B556AD53BBA3.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_ttfs4obn_en.webp
+imlevel_36EDB930_2A17_CA9A_41B1_5654E627F907.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_tu9tpz11_en.webp
+imlevel_3E918735_29CF_0CAA_41BF_2135FDEEF277.url = media/panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF_HS_yupyg176_en.webp
+imlevel_08FD884E_295F_04F6_4195_54638D279694.url = media/panorama_3BB494DE_2973_0D97_41A2_97E61CD21DE3_HS_iexlpquq_en.webp
+
+### Title
+panorama_28DC071D_23F4_FCF8_419A_007E6A226D52.label = 12 to 14 floor
+panorama_30473509_2A31_5A8B_41BD_3E40356EBB31.label = 14 to 16 floor
+panorama_28DFD029_23F4_D4DB_41B7_5F83E1C9D1C4.label = 14 to 16 floor
+panorama_38EF323F_2931_0496_41AD_59EEA56FFDDE.label = 5 floor (1)
+panorama_39E03C7E_2931_1C97_41A5_93B964584C9F.label = 5 floor (2)
+panorama_39E1E484_2931_0C6B_4192_355C47B0B718.label = 5 floor (3)
+panorama_39E1BE39_2930_FC9D_4197_8146479F984A.label = 5 floor (4)
+panorama_399E46E2_294F_0DAE_41B4_B4B1E672E909.label = 5 floor (5)
+panorama_2EFB267C_23F4_DD38_41BC_6F7AAA520329.label = 9 to 11 floor
+panorama_3DE21D2F_2973_7CB6_41C1_CC227A43B56D.label = bed room
+panorama_3BB4A4D9_2973_0D9D_41B5_075CE0354FD2.label = c wash room
+panorama_3BB55D0D_2973_1C75_41A0_5AE3908E83C1.label = kitchen
+panorama_3BB494DE_2973_0D97_41A2_97E61CD21DE3.label = living room 2
+panorama_28DF9AA5_23F4_D5CB_41AB_6C33A2BED5AF.label = location
+panorama_3BB54EED_2973_1DB5_4195_C9D200F62B39.label = m bed room
+panorama_3BB5070C_2973_0C7B_4192_7B6C61A4FB42.label = m washroom
+panorama_3BB5FEC0_2973_FDEB_41C0_535A6E6FCBC3.label = washroom coridoor
+
+## Skin
+
+### Button
+Button_26651814_2931_046A_4191_11A771B08190.label = 5th FLOOR VIEW
+Button_3B4093EC_2B04_0B02_41BC_AE1AE3EDCAAF.label = Contact :- +9190224 34694 
+Button_3BCA345F_2B0C_0D3E_41B7_FBDE23A02D6D.label = Created by Aeroview360         
+Button_3DE98705_2971_0C75_416B_91EB6266912F.label = FLAT DEMO
+Button_3D1A2E5D_2971_1C9A_417D_4B4E309048A4.label = LOCATION
+
+### Dropdown
+DropDown_26DBB04E_2931_04F7_4199_52933E0BEACF.prompt = FLOOR VIEW
+
+### Image
+Image_248B76D8_2B1C_0D02_4199_82C72FDFA7A2.url = skin/Image_248B76D8_2B1C_0D02_4199_82C72FDFA7A2_en.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VED KRUSHNARANG
